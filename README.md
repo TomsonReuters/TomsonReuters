@@ -2,7 +2,7 @@
 - 👀 I’m interested in Algo-Trading-Bots
 - 🌱 I’m currently learning ... Object Oriented Programming on Python & Doing Algo-T
 - 💞️ I’m looking to collaborate on automatizing
-- 📫 How to reach me Tomás Alessandro Pascali
+- 📫 Linkedin: Tomás Alessandro Pascali
 
 <!---
 TomsonReuters/TomsonReuters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
