@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomsonReuters
 - 👀 I’m interested in Algo-Trading-Bots
-- 🌱 I’m currently learning ... Object Oriented Programming on Python & Doing Algo-T
+- 🌱 I’m currently learning ... Object Oriented Programming & Doing Algo-T on Python
 - 💞️ I’m looking to collaborate on automatizing
 - 📫 Linkedin: Tomás Alessandro Pascali
 
