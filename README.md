@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TomsonReuters interested in Financial Markets and Algo-Trading-Bot & doing Algo-T on Python
+- 👋 Hi, I’m @TomsonReuters interested in Financial Markets & doing Algo-T on Python
 - 📫 Linkedin: Tomás Alessandro Pascali
 
 <!---
